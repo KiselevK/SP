@@ -1,0 +1,2 @@
+F:\my\SP\VSproject\SPprojectV1\SPui\SPui\obj\Debug\SPui.csprojResolveAssemblyReference.cache
+F:\my\SP\VSproject\SPprojectV1\SPui\SPui\obj\Debug\SPui.csproj.CoreCompileInputs.cache
