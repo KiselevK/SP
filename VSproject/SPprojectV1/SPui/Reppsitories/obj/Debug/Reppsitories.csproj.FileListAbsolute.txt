@@ -1,0 +1,7 @@
+F:\my\SP\VSproject\SPprojectV1\SPui\Reppsitories\bin\Debug\Reppsitories.dll.config
+F:\my\SP\VSproject\SPprojectV1\SPui\Reppsitories\bin\Debug\Reppsitories.dll
+F:\my\SP\VSproject\SPprojectV1\SPui\Reppsitories\bin\Debug\Reppsitories.pdb
+F:\my\SP\VSproject\SPprojectV1\SPui\Reppsitories\obj\Debug\Reppsitories.csprojResolveAssemblyReference.cache
+F:\my\SP\VSproject\SPprojectV1\SPui\Reppsitories\obj\Debug\Reppsitories.csproj.CoreCompileInputs.cache
+F:\my\SP\VSproject\SPprojectV1\SPui\Reppsitories\obj\Debug\Reppsitories.dll
+F:\my\SP\VSproject\SPprojectV1\SPui\Reppsitories\obj\Debug\Reppsitories.pdb

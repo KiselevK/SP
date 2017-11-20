@@ -1,0 +1,10 @@
+F:\my\SP\VSproject\SPprojectV1\SPui\BuissnesLayer\obj\Debug\BuissnesLayer.csprojResolveAssemblyReference.cache
+F:\my\SP\VSproject\SPprojectV1\SPui\BuissnesLayer\obj\Debug\BuissnesLayer.csproj.CoreCompileInputs.cache
+F:\my\SP\VSproject\SPprojectV1\SPui\BuissnesLayer\bin\Debug\BuissnesLayer.dll.config
+F:\my\SP\VSproject\SPprojectV1\SPui\BuissnesLayer\bin\Debug\BuissnesLayer.dll
+F:\my\SP\VSproject\SPprojectV1\SPui\BuissnesLayer\bin\Debug\BuissnesLayer.pdb
+F:\my\SP\VSproject\SPprojectV1\SPui\BuissnesLayer\obj\Debug\BuissnesLayer.dll
+F:\my\SP\VSproject\SPprojectV1\SPui\BuissnesLayer\obj\Debug\BuissnesLayer.pdb
+F:\my\SP\VSproject\SPprojectV1\SPui\BuissnesLayer\bin\Debug\Reppsitories.dll
+F:\my\SP\VSproject\SPprojectV1\SPui\BuissnesLayer\bin\Debug\Reppsitories.pdb
+F:\my\SP\VSproject\SPprojectV1\SPui\BuissnesLayer\bin\Debug\Reppsitories.dll.config

@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-using MainLogicLayer;
+using BuissnesLayer;
+
 namespace SPui.Controllers
 {
     public class HomeController : Controller
@@ -12,7 +13,7 @@ namespace SPui.Controllers
         public ActionResult Index()
         {
             var test = new Test();
-            ViewData["HelloWorld"] = test.HelloWorld;
+            ViewData["HelloWorld"] = test.Show();
             return View();
         }
 
